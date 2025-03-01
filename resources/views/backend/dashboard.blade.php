@@ -1,0 +1,2 @@
+<livewire:backend.components.sidebar />
+
