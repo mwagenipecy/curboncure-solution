@@ -3,17 +3,18 @@
 
     <section class="mb-32">
         <div id="map" class="relative h-[300px] overflow-hidden bg-cover bg-[50%] bg-no-repeat">
-          <iframe
+          {{-- <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11672.945750644447!2d-122.42107853750231!3d37.7730507907087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80858070cc2fbd55%3A0xa71491d736f62d5c!2sGolden%20Gate%20Bridge!5e0!3m2!1sen!2sus!4v1619524992238!5m2!1sen!2sus"
+            width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe> --}}
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d27358.13769163043!2d39.24048751228264!3d-6.781367908647714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2stz!4v1740909446300!5m2!1sen!2stz"
             width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
         </div>
         <div class="container px-6 md:px-12">
           <div
             class="block rounded-lg bg-[hsla(0,0%,100%,0.8)]  px-6 py-12   md:py-16 md:px-12 -mt-[100px] backdrop-blur-[30px] border-[#B8D667] border-1 ">
             <div class="flex flex-wrap">
               <div class="mb-12 w-full shrink-0 grow-0 basis-auto md:px-3 lg:mb-0 lg:w-5/12 lg:px-6">
-
-
                 <form>
                     <label for="website-admin" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Username</label>
                     <div class="flex">
@@ -24,8 +25,6 @@
                       </span>
                       <input type="text" id="website-admin" class="rounded-none rounded-e-lg bg-gray-50 border text-gray-900 focus:ring-blue-500 focus:border-blue-500 block flex-1 min-w-0 w-full text-sm border-gray-300 p-2.5  dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="elonmusk">
                     </div>
-
-
                     <label for="input-group-1" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Your Email</label>
                     <div class="relative mb-6">
                       <div class="absolute inset-y-0 start-0 flex items-center ps-3.5 pointer-events-none">
@@ -37,17 +36,13 @@
                       <input type="text" id="input-group-1" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full ps-10 p-2.5  dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="name@flowbite.com">
                     </div>
 
-
-
                     <label for="message" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Your message</label>
                     <textarea id="message" rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Write your thoughts here..."></textarea>
-
-
                   <button type="button"
                       class="mb-6 w-full rounded bg-[#B8D667] mt-6  text-white px-6 pt-2.5 pb-2 text-xs font-medium uppercase leading-normal   lg:mb-0">
                       Send
                     </button>
-                    
+
                 </form>
 
 
