@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CarbonCureSolution</title>
-    <meta name="description" content="Get started with a free landing page built with Tailwind CSS and the Flowbite Blocks system.">
+    <meta name="description" content="carbon cure solution">
     <link href="./output.css" rel="stylesheet">
     <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
     <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
