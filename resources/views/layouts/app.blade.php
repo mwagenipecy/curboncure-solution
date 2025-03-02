@@ -5,7 +5,7 @@
             <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1">
             <meta name="description"
-                content="Get started with a premium admin dashboard interface built with Tailwind CSS and Flowbite featuring over 50 example pages of charts, calendars, kanban boards, dashboards, CRUD pages, mailing systems, and more.">
+                content="carbon cure solution">
             <meta name="author" content="Themesberg">
             <meta name="generator" content="Hugo 0.123.8">
 
@@ -39,17 +39,12 @@
             <meta name="twitter:card" content="summary">
             <meta name="twitter:site" content="@">
             <meta name="twitter:creator" content="@">
-            <meta name="twitter:title" content="Tailwind CSS Customer Service Dashboard - Flowbite">
-            <meta name="twitter:description"
-                content="Get started with a premium admin dashboard interface built with Tailwind CSS and Flowbite featuring over 50 example pages of charts, calendars, kanban boards, dashboards, CRUD pages, mailing systems, and more.">
-            <meta name="twitter:image" content="https://flowbite.com/application-ui/demo/images/og-image.jpg">
+            <meta name="twitter:title" content="T">
 
             <!-- Facebook -->
             <meta property="og:url" content="https://flowbite.com/application-ui/demo/homepages/customer-service/">
-            <meta property="og:title" content="Tailwind CSS Customer Service Dashboard - Flowbite">
-            <meta property="og:description"
-                content="Get started with a premium admin dashboard interface built with Tailwind CSS and Flowbite featuring over 50 example pages of charts, calendars, kanban boards, dashboards, CRUD pages, mailing systems, and more.">
-            <meta property="og:type" content="article">
+            <meta property="og:title" content="e">
+        
             <meta property="og:image" content="https://flowbite.com/application-ui/demo/images/og-image.jpg">
             <meta property="og:image:type" content="image/png">
 
@@ -789,6 +784,6 @@
         <script src="https://flowbite.com/application-ui/demo/app.bundle.js"></script>
 
 
-        
+
     </body>
 </html>
