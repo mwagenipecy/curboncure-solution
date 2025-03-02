@@ -28,8 +28,8 @@
         <div class="absolute   bottom-8 left-1/2 transform -translate-x-1/2 flex gap-4 z-10">
             <!-- Card 1 -->
             <div class="bg-black/10 backdrop-blur-sm rounded-lg p-4 text-white text-center w-[250px]">
-                <p class="text-lg font-bold">10k+</p>
-                <p class="text-sm">Projects</p>
+                <p class="text-lg font-bold">50+</p>
+                <p class="text-sm">Customers</p>
             </div>
             <!-- Card 2 -->
             <div class="bg-black/10 backdrop-blur-sm rounded-lg p-4 text-white text-center  w-[250px]">
